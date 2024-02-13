@@ -40,7 +40,6 @@ function onBall3Click() {
     ball1.style.backgroundColor = ball2.style.backgroundColor
     ball1.innerText = ball2.innerText
 
-    
     ball2.style.width = holder.width
     ball2.style.height = holder.height
     ball2.style.backgroundColor = holder.color
@@ -65,4 +64,9 @@ function onBall4Click() {
     ball2.style.width = gBall2Size + 'px'
     ball2.style.height = gBall2Size + 'px'
     ball2.innerText = gBall2Size
+}
+
+function onBall5Click() {
+    var body = document.querySelector('body')
+    body.style.backgroundColor = getRandomColor()
 }
