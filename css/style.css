@@ -1,11 +1,13 @@
 body {
     background-color: black;
     color: white;
+    text-align: center;
 }
 
 .ball {
     height: 100px;
     width: 100px;
     background-color: coral;
-    margin: auto
+    margin: auto;
+    border-radius: 50%;
 }
