@@ -7,34 +7,61 @@ body {
 .ball1 {
     height: 100px;
     width: 100px;
-    background-color: coral;
+    background-color: violet;
     margin: auto;
     border-radius: 50%;
     font-size: 22px;
     font-weight: bold;
     transition: 1s;
     cursor: pointer;
+    border: 1px grey solid;
 }
 
 .ball2 {
     height: 100px;
     width: 100px;
-    background-color: darkkhaki;
+    background-color: rgb(52, 69, 199);
     margin: 100px auto;
     border-radius: 50%;
     font-size: 22px;
     font-weight: bold;
     transition: 1s;
     cursor: pointer;
+    border: 1px grey solid;
 }
 
 .ball3 {
     height: 100px;
     width: 100px;
-    background-color:blueviolet;
+    background-color:rgb(226, 86, 43);
     margin: 100px auto;
     border-radius: 50%;
     font-size: 18px;
     transition: 1s;
     cursor: pointer;
+    border: 1px grey solid;
+}
+
+.ball4 {
+    height: 100px;
+    width: 100px;
+    background-color:rgb(226, 189, 43);
+    margin: 100px auto;
+    border-radius: 50%;
+    font-size: 18px;
+    transition: 1s;
+    cursor: pointer;
+    border: 1px grey solid;
+}
+
+.ball5 {
+    height: 100px;
+    width: 100px;
+    background-color:rgb(40, 164, 77);
+    margin: 100px auto;
+    border-radius: 50%;
+    font-size: 18px;
+    transition: 1s;
+    cursor: pointer;
+    border: 1px grey solid;
 }

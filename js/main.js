@@ -66,3 +66,8 @@ function onBall4Click() {
     ball2.style.height = gBall2Size + 'px'
     ball2.innerText = gBall2Size
 }
+
+function onBall5Click() {
+    var body = document.querySelector('body')
+    body.style.backgroundColor = getRandomColor()
+}
