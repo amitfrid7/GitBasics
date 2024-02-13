@@ -13,4 +13,16 @@ body {
     font-size: 22px;
     font-weight: bold;
     transition: 1s;
+    cursor: pointer;
+}
+.ball1 {
+    height: 100px;
+    width: 100px;
+    background-color: darkkhaki;
+    margin: auto;
+    border-radius: 50%;
+    font-size: 22px;
+    font-weight: bold;
+    transition: 1s;
+    cursor: pointer;
 }
