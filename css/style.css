@@ -12,4 +12,5 @@ body {
     border-radius: 50%;
     font-size: 22px;
     font-weight: bold;
+    transition: 1s;
 }
