@@ -10,4 +10,6 @@ body {
     background-color: coral;
     margin: auto;
     border-radius: 50%;
+    font-size: 22px;
+    font-weight: bold;
 }
